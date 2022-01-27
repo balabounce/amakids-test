@@ -1,0 +1,14 @@
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 25px 0 rgb(150 200 255 / 70%);
+    background-color: #adf;
+}
+
+.cell img {
+    width: 30%;
+    height: 30%;
+}
